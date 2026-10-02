@@ -1,2 +1,4 @@
-# CRM-de-empresas-con-Laravel-Jetstream-y-Livewire-sobre-SQL-Server
-CRM de empresas con Laravel, Jetstream y Livewire sobre SQL Server: importación masiva desde Excel/CSV, normalización de datos, detección y fusión de duplicados, segmentos y exportación.
+# CRM Empresas
+CRM construido con Laravel 11 + Jetstream + Livewire y SQL Server.
+Permite importar bases de empresas desde Excel/CSV, normalizar teléfonos,
+correos y direcciones, detectar duplicados y exportar segmentos.
